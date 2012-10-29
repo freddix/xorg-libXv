@@ -10,7 +10,7 @@ URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	libtool
-BuildRequires:	pkgconfig
+BuildRequires:	pkg-config
 BuildRequires:	xorg-libXext-devel
 BuildRequires:	xorg-proto >= 7.7
 BuildRequires:	xorg-util-macros
