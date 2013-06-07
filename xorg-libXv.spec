@@ -1,11 +1,11 @@
 Summary:	X Video extension library
 Name:		xorg-libXv
-Version:	1.0.7
-Release:	3
+Version:	1.0.8
+Release:	1
 License:	MIT
 Group:		X11/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/lib/libXv-%{version}.tar.bz2
-# Source0-md5:	5e1ac203ccd3ce3e89755ed1fbe75b0b
+# Source0-md5:	224dadca53d9c88f8a2b8945babcea70
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
